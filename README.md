@@ -166,6 +166,7 @@ When they leave the company, all customers are asked about their
 reasons for leaving. Directly related to Churn Reason.
 14. Churn Reason: A customer’s specific reason for leaving the
 company. Directly related to Churn Category.
+
 The main problem to solve is, giving the telecom company a way to know if
 a particular customer or a set of customers are having a higher probability
 of moving out (churn) / port out from the current telecom service provider.
