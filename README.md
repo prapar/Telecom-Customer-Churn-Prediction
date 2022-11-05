@@ -180,3 +180,5 @@ Apart from retaining customers, this will also help increase the customer
 satisfaction in general due to affirmative action by the company. The model
 should also preferably give areas where the service provider must work on
 to retain the customers.
+
+app.py was run to deploy model using flask api to aws ec2 instance.
